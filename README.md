@@ -24,7 +24,7 @@ Soy estudiante de Ingeniería en Ciencias de la Computación y Tecnologías de l
 ## 📊 Estadísticas de GitHub
 
 ![Bianca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BiancaCalderon&show_icons=true&theme=radical&hide=Makefile))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCalderon&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCalderon&theme=radical&layout=compact&hide=makefile)
 
 ## 🌱 Aprendiendo
 
